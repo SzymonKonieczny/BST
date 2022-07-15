@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Szymon/Documents/GitHub/6a28ce51-gr13-repo/Project/main.cpp
+iostream
+-
+memory
+-
+fstream
+-
+sstream
+-
+

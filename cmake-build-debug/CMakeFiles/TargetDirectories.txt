@@ -1,0 +1,3 @@
+C:/Users/Szymon/Documents/GitHub/6a28ce51-gr13-repo/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Szymon/Documents/GitHub/6a28ce51-gr13-repo/Project/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/Szymon/Documents/GitHub/6a28ce51-gr13-repo/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
